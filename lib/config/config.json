@@ -1,0 +1,12 @@
+{
+  "port": 8090,
+  "ldap": {
+    "url": "ldap://127.0.0.1:389",
+    "rootpw": "aegee"
+  },
+  "redis": {
+    "url": "127.0.0.1",
+    "port": "6379"
+  },
+  "secret": "the rise and fall of ziggy stardust and spiders from mars"
+}

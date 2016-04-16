@@ -1,0 +1,14 @@
+--------------------------Tokens----------------------------
+POST /verify
+
+    Either yes/no, or perhaps some more info. Can be in query param or post body
+
+POST /requesttoken
+
+    Need post of the credentials or some nonce/anything that can generate token
+
+POST /expiretoken
+    
+    Need credentials to be able to expire it
+
+
